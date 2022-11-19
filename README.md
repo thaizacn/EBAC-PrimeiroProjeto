@@ -1,4 +1,4 @@
-# 🚀 Cadastro de Cliente (primeiro projeto EBAC - Módulo 14)
+# 🚀 Cadastro de Cliente (1º EBAC - Módulo 14)
 
 ## ✨ Começando
 O Cadastramento de Cliente é um projeto desenvolvido para solidificar os conhecimentos adquiridos ao longo dos 13 módulos anteriores do curso de Back-end Java da Escola Britânica de Artes Criativas e Tecnologia [EBAC](https://ebaconline.com.br/back-end-java)
